@@ -1,0 +1,1968 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Hidro.kmz</name>
+	<open>1</open>
+	<Style id="sn_centralicono1">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>D:/trabajo/DERIVA/INVESTIGACAO/CENTRALES MAULE/centralicono1.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl10</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin10">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl00">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_centralicono1">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_centralicono1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_centralicono1</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="m_ylw-pushpin000">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl00</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin_hl11">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_embalseicono1">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_embalseicono1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_embalseicono1</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin_hl10">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="s_ylw-pushpin0">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin00">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin11</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl11</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="m_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin2</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl1</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin2">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>D:/trabajo/DERIVA/INVESTIGACAO/CENTRALES MAULE/centralicono1.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_embalseicono1">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>D:/trabajo/DERIVA/INVESTIGACAO/CENTRALES MAULE/embalseicono1.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="s_ylw-pushpin11">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="s_ylw-pushpin1">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl1">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>D:/trabajo/DERIVA/INVESTIGACAO/CENTRALES MAULE/centralicono1.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin2">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl0">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sh_centralicono1">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>D:/trabajo/DERIVA/INVESTIGACAO/CENTRALES MAULE/centralicono1.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_embalseicono1">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>D:/trabajo/DERIVA/INVESTIGACAO/CENTRALES MAULE/embalseicono1.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin1">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin10</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Folder>
+		<name>Hidro</name>
+		<Placemark>
+			<name>EMBALSE Colbún</name>
+			<description>Potencia: 474 MW
+Empresa: Colbún (Grupo Matte)
+
+Nuestra primera y mayor central hidroeléctrica, la cual dio inicio a nuestra Compañía.</description>
+			<LookAt>
+				<longitude>-71.3310393971868</longitude>
+				<latitude>-35.67714385831894</latitude>
+				<altitude>0</altitude>
+				<heading>-3.190702858573939</heading>
+				<tilt>8.701397033970366</tilt>
+				<range>14502.85659466405</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_embalseicono1</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-71.34072670653087,-35.67208591212525,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>EMBALSE Machicura</name>
+			<description>Central hidroeléctria con embalse: Machicura. Año: 1985
+ 
+Potencia: 95 MW
+Empresa: Colbún (Grupo Matte)</description>
+			<LookAt>
+				<longitude>-71.3310393971868</longitude>
+				<latitude>-35.67714385831894</latitude>
+				<altitude>0</altitude>
+				<heading>-3.190702858573939</heading>
+				<tilt>8.701397033970366</tilt>
+				<range>14502.85659466405</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_embalseicono1</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-71.38353555052034,-35.69707869036127,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Pangue EMBALSE</name>
+			<description>La Central Hidroeléctrica Pangue es una central generadora de electricidad por energía hidráulica. Está ubicada a 87 km al sudeste de la ciudad de Los Ángeles, en la Región del Biobío de Chile, en la confluencia de los ríos Pangue y Huiri-Huiri. La central usa el agua de la cuenca superior del río Bío Bío y produce 456 MW de electricidad.1 La central fue construida por Endesa en el año 1996.1</description>
+			<LookAt>
+				<longitude>-71.59313552609116</longitude>
+				<latitude>-37.91202937172912</latitude>
+				<altitude>0</altitude>
+				<heading>-3.054765342786225</heading>
+				<tilt>7.58844320084549</tilt>
+				<range>8103.948068455455</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin1</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-71.60469633843108,-37.91244450344647,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Ralco EMBALSE</name>
+			<description>La Central hidroeléctrica Ralco es una central generadora de electricidad por energía hidráulica. Está ubicada en la comuna de Alto Biobío, a 120 km al este de la ciudad de Los Ángeles, esto en la Región del Biobío, Chile. Es de tipo hidráulica de embalse y utiliza la fuerza del río Biobío mediante un embalse artificial. Fue puesta en servicio el 2004, luego de 6 años de construcción, y después casi una década de conflictos sociales con la población pehuenche que habitaba la zona.1 Actualmente posee una potencia de 690 MW, lo que la convierte en la principal central eléctrica del país.2 Es operada por Endesa.3</description>
+			<LookAt>
+				<longitude>-71.43194372477106</longitude>
+				<latitude>-38.03950328590333</latitude>
+				<altitude>0</altitude>
+				<heading>-3.153624822226997</heading>
+				<tilt>8.947970226160926</tilt>
+				<range>15954.05125078135</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin1</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-71.47616728685675,-38.04557655212933,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Rapel EMBALSE</name>
+			<description>La Central hidroeléctrica Rapel, ENDESA construida en 1968, es una central hidroeléctrica ubicada en la Región del Libertador General Bernardo O&apos;Higgins, Chile, sobre el río Rapel. Da origen a uno de los lagos artificiales más visitados de la zona central del país, el Lago Rapel.</description>
+			<LookAt>
+				<longitude>-71.5868982892803</longitude>
+				<latitude>-34.04065857688768</latitude>
+				<altitude>0</altitude>
+				<heading>-2.887900067682137</heading>
+				<tilt>35.2664806953148</tilt>
+				<range>1191.976939551235</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-71.58901612050883,-34.04114477653122,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PROYECTO Central Hidroeléctrica de Pasada El Pinar</name>
+			<description>Aaktei Energía SpA		Central Hidroeléctrica de Pasada El Pinar	No	-	-	HP	-	-	11.5	S/E Cholguán 13,2 kV</description>
+			<LookAt>
+				<longitude>-71.60743037356558</longitude>
+				<latitude>-37.14966892481696</latitude>
+				<altitude>0</altitude>
+				<heading>3.407054675191021</heading>
+				<tilt>0</tilt>
+				<range>54107.93668980167</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin000</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-71.60743037356558,-37.14966892481695,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Angostura EMBALSE</name>
+			<LookAt>
+				<longitude>-71.81139748977925</longitude>
+				<latitude>-37.70952160981361</latitude>
+				<altitude>0</altitude>
+				<heading>-2.905087699907969</heading>
+				<tilt>19.52722948474508</tilt>
+				<range>3329.824567563547</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin1</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-71.81720999386906,-37.71213114208839,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PROYECTO hidroeléctrico Alto Maipo</name>
+			<description>Exp. N°105
+Inversión US$700.000.000
+
+Titular: Sociedad Alto Maipo SpA (Grupo Luksic y AES Gener)</description>
+			<LookAt>
+				<longitude>-70.76252699933292</longitude>
+				<latitude>-33.3699174453624</latitude>
+				<altitude>0</altitude>
+				<heading>0.3294029138684841</heading>
+				<tilt>19.19746749340126</tilt>
+				<range>304682.4925488642</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-70.42415313083492,-33.58791964619694,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Central hidroeléctrica Las Nieves</name>
+			<description>6.5	6.5	Patio 23 kV, Centrales Carilafquén y Malalcahuello.	IX Región, Melipeuco</description>
+			<LookAt>
+				<longitude>-71.44828434311795</longitude>
+				<latitude>-38.9147094106665</latitude>
+				<altitude>0</altitude>
+				<heading>-0.5762611407093116</heading>
+				<tilt>0</tilt>
+				<range>53478.82054362368</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin000</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-71.53634903755818,-38.89250867369725,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PROYECTO Central Hidroeléctrica Rucalhue</name>
+			<description>Atiaia Energía Chile SpA, empresa del Grupo Cornélio Brennand (90%) en sociedad con Koblitz Energia LTDA (10%)
+Inversión US$240.000.000
+Potencia por unidad [MW] 30 
+Potencia instalada total: 90</description>
+			<LookAt>
+				<longitude>-71.92341019960738</longitude>
+				<latitude>-37.69145770627224</latitude>
+				<altitude>0</altitude>
+				<heading>-0.2796372476691565</heading>
+				<tilt>1.121762547671001</tilt>
+				<range>22332.23028174328</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-71.8891122479474,-37.69060172613656,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PROYECTO Central Hidroeléctrica Los Hierros</name>
+			<description>Potencia total instalada: 6 MW
+Inversión US$50.000.000 
+
+Titular: 
+
+Nombre 	: 	Empresa Eléctrica Aguas del Melado
+Consultor: Mauricio Antonio Retamal Pérez</description>
+			<LookAt>
+				<longitude>-71.01588302257213</longitude>
+				<latitude>-35.87538231344055</latitude>
+				<altitude>0</altitude>
+				<heading>-0.8137170910133725</heading>
+				<tilt>1.118552981504116</tilt>
+				<range>51449.3894590362</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-71.05630925248609,-35.86550011943378,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PROYECTO: Central Hidroeléctrica Los Hierros II, Obras de Generación y Transmisión</name>
+			<description>Inversión US$16.000.000
+
+
+Titular: Empresa eléctrica Portezuelo SpA
+Filial: Besalco</description>
+			<LookAt>
+				<longitude>-70.90961582521872</longitude>
+				<latitude>-35.8530790331094</latitude>
+				<altitude>0</altitude>
+				<heading>-0.8757758887629115</heading>
+				<tilt>1.124360604103938</tilt>
+				<range>84141.95865089721</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-71.03397157486674,-35.87450087514258,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Proyecto
+CENTRAL HIDROELÉCTRICA CHILCOCO
+Inversión US$22.250.000</name>
+			<description>Titular: Nombre 	: 	Ganadera y Forestal Carran Ltda.
+Domicilio 	: 	José Victorino Lastarria 333
+Ciudad 	: 	Santiago
+Telefono 	: 	6330802
+Fax 	: 	6399422
+E-mail 	: 	puertocarran@123.cl
+
+Potencia instalada total: 12 MW</description>
+			<LookAt>
+				<longitude>-71.99847011941479</longitude>
+				<latitude>-40.37223729708208</latitude>
+				<altitude>0</altitude>
+				<heading>0.8132381057272065</heading>
+				<tilt>0</tilt>
+				<range>24312.8070136297</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin00</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-72.00759536429281,-40.3670384335261,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PROYECTO Central Hidroeléctrica Chupallar, Obras de Generación y Transmisión</name>
+			<description>Inversión US$49.500.000
+
+Besalco Energía Renovable
+3.9 MW</description>
+			<LookAt>
+				<longitude>-71.22107597522245</longitude>
+				<latitude>-35.86870589964151</latitude>
+				<altitude>0</altitude>
+				<heading>0.3205469051868908</heading>
+				<tilt>0</tilt>
+				<range>37612.93869771381</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-71.26264626112369,-35.86938744583829,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PROYECTO: Central hidroeléctrica Túnel Melado Obras de Generación y de Transmisión</name>
+			<description>Titular: Besalco Construcciones S.A
+
+
+Inversión US$11.300.000
+
+	: 	
+Consultora: Rivas &amp; Asociados Consultores Ldta.</description>
+			<LookAt>
+				<longitude>-70.96006097514301</longitude>
+				<latitude>-35.84004660471913</latitude>
+				<altitude>0</altitude>
+				<heading>0.7107917686851873</heading>
+				<tilt>0.330297170568349</tilt>
+				<range>84951.73283577974</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-71.03017335537199,-35.90284775735763,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Proyecto
+Minicentral Hidroeléctrica de Pasada Río Chanleufu
+Inversión US$18.000.000</name>
+			<description>Titular: Nombre 	: 	Central Hidroeléctrica Chanleufú
+Domicilio 	: 	Av. Santa Maria # 5888, Vitacura
+Ciudad 	: 	Santiago
+Telefono 	: 	56-2-9570100/57
+Fax 	: 	
+E-mail 	: 	phalty@prismasconsulting.cl
+
+potencia instalada total: 5MW</description>
+			<LookAt>
+				<longitude>-72.31472293859157</longitude>
+				<latitude>-40.73745215207321</latitude>
+				<altitude>0</altitude>
+				<heading>1.018745624250331</heading>
+				<tilt>0</tilt>
+				<range>25560.75395766602</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin00</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-72.34320673406445,-40.72737829913411,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PROYECTO: Optimización Proyecto Central Hidroeléctrica La Mina</name>
+			<description>Titular: Nombre 	: 	Colbún S.A. (Grupo Matte) 
+
+Inversión US$75.000.000
+
+Potencia instalada total: 34.8 MW</description>
+			<LookAt>
+				<longitude>-70.66483270850134</longitude>
+				<latitude>-35.84410128369208</latitude>
+				<altitude>0</altitude>
+				<heading>-0.03375528432223975</heading>
+				<tilt>0</tilt>
+				<range>28646.17970909681</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-70.72203278641779,-35.83589297527019,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Proyecto
+ADECUACIÓN CENTRAL HIDROELÉCTRICA SAN PEDRO
+Inversión US$650.000.000</name>
+			<description>Titular: Nombre 	: 	Colbún S.A.
+Potencia instalada total: 160 MW</description>
+			<LookAt>
+				<longitude>-72.60901170830015</longitude>
+				<latitude>-39.78506346995974</latitude>
+				<altitude>0</altitude>
+				<heading>1.256974802060754</heading>
+				<tilt>0</tilt>
+				<range>38245.74145354635</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin00</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-72.64629678499813,-39.7541921650467,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Proyecto
+Central Hidroeléctrica Río Isla
+Inversión US$10.000.000</name>
+			<description>Titular. Nombre 	: 	Electrica Rio Isla S.A.
+Potencia instalada total: 4,2 MW</description>
+			<LookAt>
+				<longitude>-72.27394776023836</longitude>
+				<latitude>-40.60488430777572</latitude>
+				<altitude>0</altitude>
+				<heading>1.042559281709527</heading>
+				<tilt>0</tilt>
+				<range>42575.16834427033</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin00</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-72.37615719906431,-40.58563334007875,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Proyecto
+Central Hidroeléctrica de Pasada Cumbres
+Inversión US$50.000.000</name>
+			<description>Titular: Nombre 	: 	Cumbres S.A.
+Potencia instalada total: 19 MW</description>
+			<LookAt>
+				<longitude>-72.18005422310803</longitude>
+				<latitude>-40.61126921944278</latitude>
+				<altitude>0</altitude>
+				<heading>0.9814494060387542</heading>
+				<tilt>0</tilt>
+				<range>48460.73209695422</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin00</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-72.22471802369452,-40.62771500808097,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PROYECTO Central Ñuble de Pasada</name>
+			<description>Titular: Nombre 	: 	Hidroeléctrica Ñuble SpA. Filial: Eléctrica Puntilla S.A. Empresa ligada a la Sociedad del Canal del Maipo con participación la familia Pérez Cruz
+
+Inversión US$140.000.000
+
+Potencia instalada total: 136 MW</description>
+			<LookAt>
+				<longitude>-71.49794984558793</longitude>
+				<latitude>-36.5847747729998</latitude>
+				<altitude>0</altitude>
+				<heading>0.6068967994142855</heading>
+				<tilt>28.616260599184</tilt>
+				<range>15664.22114137207</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-71.5018022011067,-36.5951092463144,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PROYECTO hidroeléctrico Achibueno: Central El Castillo</name>
+			<description>Inversión:  Inversión US$285.000.000
+
+Titular: Nombre 	: 	Hidroeléctrica Centinela S.A
+Filial: Electroaustral 
+
+Potencia total instalada: 30 MW</description>
+			<Camera>
+				<longitude>-71.13334855627741</longitude>
+				<latitude>-36.11159148358534</latitude>
+				<altitude>20561.13199162146</altitude>
+				<heading>-63.65174100849927</heading>
+				<tilt>0.01618089194035113</tilt>
+				<roll>-65.8244954000605</roll>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</Camera>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-71.13411966454346,-36.11164205249651,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PROYECTO hidroeléctrico Achibueno: Central Centinela</name>
+			<description>Titular: Nombre 	: 	Hidroeléctrica Centinela S.A 
+Inversión US$285.000.000
+
+Filial: Electroaustral 
+Empresario: Isidoro Quiroga
+Potencia: 105 MW</description>
+			<Camera>
+				<longitude>-71.13590438694803</longitude>
+				<latitude>-36.11083135550502</latitude>
+				<altitude>29134.10764113106</altitude>
+				<heading>-63.64966392628526</heading>
+				<tilt>0.01618414498717379</tilt>
+				<roll>-65.82392852694251</roll>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</Camera>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-71.20866990061833,-36.10376744272064,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PROYECTO: Central hidroeléctrica Molinos de Agua</name>
+			<description>Titular: Nombre 	: 	Hidroeléctrica Molinos de Agua S.A.
+Inversión US$50.000.000
+
+Empresa: Electro Austral Generación
+Empresario: Isidoro Quiroga Moreno
+
+Potencia instalada total: 20,7 MW</description>
+			<LookAt>
+				<longitude>-71.9639170352756</longitude>
+				<latitude>-37.21258278815601</latitude>
+				<altitude>0</altitude>
+				<heading>2.482447629332476</heading>
+				<tilt>4.656028669491337</tilt>
+				<range>18550.3779417371</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-71.97800421282045,-37.19534398144166,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PROYECTO Central de Pasada Itata</name>
+			<description>Titular: Nombre 	: 	ELECTRICA PUNTILLA S.A. Empresa ligada a la Sociedad del Canal del Maipo con participación la familia Pérez Cruz
+Inversión US$31.000.000
+
+Consultora: SGA
+
+Potencia instalada total: 20 MW</description>
+			<LookAt>
+				<longitude>-72.14905177066734</longitude>
+				<latitude>-37.05443985933478</latitude>
+				<altitude>0</altitude>
+				<heading>2.671754621522791</heading>
+				<tilt>7.239548372666499</tilt>
+				<range>11660.09284648525</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-72.18521809937809,-37.05524524645919,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PROYECTO: Optimización de obras de la central hidroeléctrica Los Cóndores</name>
+			<description>Titular: Endesa 
+Filial: Enel
+
+Inversión US$400.000.000
+
+Titular: Nombre: Empresa Nacional de Electricidad S.A.
+
+Potencia total instalada: 150 MW</description>
+			<LookAt>
+				<longitude>-70.55852670896741</longitude>
+				<latitude>-36.00549587271371</latitude>
+				<altitude>0</altitude>
+				<heading>1.649659538840638</heading>
+				<tilt>4.668716221397331</tilt>
+				<range>29762.67445635224</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-70.55542761612676,-36.01321886770701,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Proyecto
+Minicentral Hidroeléctrica Piruquina
+Inversión US$24.000.000</name>
+			<description>Titular: Nombre 	: 	Compañía Eléctrica Tarapacá S.A. 
+Empresa Endesa
+Potencia: corroborar</description>
+			<LookAt>
+				<longitude>-73.7451011413268</longitude>
+				<latitude>-42.34266303656619</latitude>
+				<altitude>0</altitude>
+				<heading>3.740926902545838</heading>
+				<tilt>6.269389252145652</tilt>
+				<range>9789.873710080272</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin00</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-73.76381730381922,-42.33646924905239,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PROYECTO:
+Central Hidroeléctrica El Galpón</name>
+			<description>Inversión: 2,3000 millones de dólares. 
+
+Titular: Nombre 	: 	ELÉCTRICA EL GALPÓN SPA
+
+Empresa: Enerbosch S.A.	Filial: Galpon SpA
+
+Potencia total instalada: 1.4 MW
+
+Titular: Eléctrica el Galpón SPA
+Filial: Enerbosch S.A.
+Consultora: Sustentable.cl S.A.</description>
+			<LookAt>
+				<longitude>-71.20571632836901</longitude>
+				<latitude>-35.22108823134188</latitude>
+				<altitude>0</altitude>
+				<heading>1.533826078651163</heading>
+				<tilt>5.269026542413846</tilt>
+				<range>15419.93520024414</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-71.20244001032353,-35.23887762794856,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PROYECTO Central hidroeléctrica río Colorado</name>
+			<description>Titular: Nombre 	: 	Hidroeléctrica Río Colorado S.A.
+Inversión: 49 millones de dólares. 
+Potencia total instalada: 15 MW</description>
+			<LookAt>
+				<longitude>-70.94424031312849</longitude>
+				<latitude>-35.81869639339143</latitude>
+				<altitude>0</altitude>
+				<heading>-20.17821229998346</heading>
+				<tilt>13.41910766085884</tilt>
+				<range>10404.63871185302</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin2</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-70.93281100265199,-35.84107541727956,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Proyecto
+Proyecto Central Hidroeléctrica Cuervo
+Inversión US$733.000.000</name>
+			<description>Nombre 	: 	Energía Austral SpA
+Empresa: Energía Austral SpA
+Potencia total: 642 MW</description>
+			<Camera>
+				<longitude>-72.96614357118575</longitude>
+				<latitude>-45.23393359111843</latitude>
+				<altitude>20529.9176298571</altitude>
+				<heading>2.262153684110837</heading>
+				<tilt>1.699601678639183</tilt>
+				<roll>-0.8485905493331392</roll>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</Camera>
+			<styleUrl>#m_ylw-pushpin00</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-72.99221324221351,-45.22209078503592,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PROYECTO: Central hidroeléctrica de pasada Condor</name>
+			<description>Empresa: Nombre: SCHWAGER ENERGY S.A.
+
+Inversión US$17.000.000
+
+Potencia aproximada: 5,4 MW</description>
+			<LookAt>
+				<longitude>-71.94098610722728</longitude>
+				<latitude>-38.62586616693393</latitude>
+				<altitude>0</altitude>
+				<heading>2.11910302036424</heading>
+				<tilt>6.377846647907998</tilt>
+				<range>22369.70343689121</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-71.95007847860106,-38.60750057604398,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PROYECTO Central Hidroeléctrica de Pasada Baquedano</name>
+			<description>Empresa: Energía Baquedano SpA con participación de Hunt Oil Company
+Inversión US$56.300.000
+
+Potencia total instalada: 17.94 MW</description>
+			<LookAt>
+				<longitude>-71.80134899881035</longitude>
+				<latitude>-37.14390007335412</latitude>
+				<altitude>0</altitude>
+				<heading>2.068500687405738</heading>
+				<tilt>7.439272802237756</tilt>
+				<range>14444.27082603673</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-71.842157402119,-37.14201117449714,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PROYECTO Central El Canelo San José</name>
+			<description>Empresa: Energía Coyanco
+
+Inversión US$50.000.000
+
+Potencia total instalada: 16MW</description>
+			<LookAt>
+				<longitude>-70.29433727761901</longitude>
+				<latitude>-33.6084799245146</latitude>
+				<altitude>0</altitude>
+				<heading>1.087211720545627</heading>
+				<tilt>4.773783951053312</tilt>
+				<range>41117.11417832343</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-70.3621326958925,-33.60524552434425,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PROYECTO Central hidroeléctrica Perquilauquén</name>
+			<description>Inversión US$48.000.000
+
+Nombre: Empresa Electrica Perquilauquen SpA
+
+Potencia total instalada: 18 MW
+Representante legal: Oswald Weinreich Balze</description>
+			<LookAt>
+				<longitude>-71.51909381787752</longitude>
+				<latitude>-36.41529706317037</latitude>
+				<altitude>0</altitude>
+				<heading>1.957681281447883</heading>
+				<tilt>8.606396014026821</tilt>
+				<range>14525.73158951457</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-71.52456816197933,-36.4085482988874,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Proyecto
+Central Hidroeléctrica de pasada Epril
+Inversión US$40.000.000</name>
+			<description>Empresa: EPA S.A.	Empresa Eléctrica Epril Spa.
+
+Potencia total instalada: 20 MW</description>
+			<Camera>
+				<longitude>-71.55411806818667</longitude>
+				<latitude>-39.57199280875874</latitude>
+				<altitude>24452.2411544004</altitude>
+				<heading>-7.040055173585736</heading>
+				<tilt>0.4041836685126935</tilt>
+				<roll>-9.542064457695602</roll>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</Camera>
+			<styleUrl>#m_ylw-pushpin00</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-71.56816166421523,-39.57698567762731,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Proyectos Centrales Hidroeléctricas de Pasada Florín II y Florín III
+Inversión US$53.700.000</name>
+			<description>Titular: EPA S.A.	Empresa Eléctrica Florín SpA
+
+Potencia florin 2: 13
+Potencia florin 3: 4</description>
+			<Camera>
+				<longitude>-72.12017575293885</longitude>
+				<latitude>-40.15871279832066</latitude>
+				<altitude>43197.47395244851</altitude>
+				<heading>-6.673608974030998</heading>
+				<tilt>0.4044087481437107</tilt>
+				<roll>-9.541837450319511</roll>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</Camera>
+			<styleUrl>#m_ylw-pushpin00</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-72.13807244704056,-40.10484872226077,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Modificación Central Hidroeléctrica Florín (ex Don Alejo). Aumento Potencia Modificación Central Hidroeléctrica Florín
+Inversión US$22.000.000</name>
+			<description>Titular: Nombre 	: 	Empresa Eléctrica Florín S.P.A
+Potencia total instalada: 8 MW</description>
+			<Camera>
+				<longitude>-72.07472353537651</longitude>
+				<latitude>-40.15549922541387</latitude>
+				<altitude>60806.95297925901</altitude>
+				<heading>-6.702662315981609</heading>
+				<tilt>0.4044560248839346</tilt>
+				<roll>-9.541807253280343</roll>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</Camera>
+			<styleUrl>#m_ylw-pushpin00</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-72.11854115975977,-40.10091136415011,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PROYECTO: Central hidroeléctrica Embalse Ancoa</name>
+			<description>Titular: Nombre 	: 	HIDROELÉCTRICA EMBALSE ANCOA SpA
+
+Inversión US$50.000.000
+
+Potencia total instalada: 28 MW</description>
+			<LookAt>
+				<longitude>-71.17953002156438</longitude>
+				<latitude>-35.85178561215921</latitude>
+				<altitude>0</altitude>
+				<heading>2.190908219250895</heading>
+				<tilt>28.74672335870926</tilt>
+				<range>7015.912940662795</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-71.18831603205564,-35.85358914991758,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PROYECTO: Centrales Hidroeléctricas de pasada Aillín y Las Juntas</name>
+			<description>Empresa: Hidroeléctrica Las Juntas
+
+Inversión US$43.000.000
+
+Titular: Nombre: Hidroeléctrica Las Juntas S.A.
+
+Potencia total instalada:
+Central Las juntas: 6.6
+Central: Aillin :7</description>
+			<LookAt>
+				<longitude>-71.42253859009364</longitude>
+				<latitude>-37.55969377519009</latitude>
+				<altitude>0</altitude>
+				<heading>2.370555333211398</heading>
+				<tilt>27.25201018299967</tilt>
+				<range>11585.29293287931</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-71.42972290276327,-37.5684584061068,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Proyecto
+Modificación Proyecto Minicentral Hidroeléctrica de Pasada Casualidad: Minicentrales El Salto y El Mocho
+Inversión US$48.000.000</name>
+			<description>Titular: Nombre 	: 	Hidroenersur S.A.
+Potencia total instalada: 16 MW
+En construcción: NO</description>
+			<Camera>
+				<longitude>-72.23402009846811</longitude>
+				<latitude>-40.61367951237933</latitude>
+				<altitude>27748.08067578285</altitude>
+				<heading>-10.0827790933252</heading>
+				<tilt>0.5033343231916818</tilt>
+				<roll>-14.82354497358037</roll>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</Camera>
+			<styleUrl>#m_ylw-pushpin00</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-72.28098750318061,-40.62551580983823,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Proyecto 	OPTIMIZACION INSTALACION HIDROELECTRICA RIO BLANCO, HORNOPIREN</name>
+			<description>Proyecto 	OPTIMIZACION INSTALACION HIDROELECTRICA RIO BLANCO, HORNOPIREN
+Tipo de Proyecto 	Centrales generadoras de energía mayores a 3 MW
+Monto de Inversión 	150,0000 Millones de Dólares
+Estado 	Aprobado
+Nombre 	: 	HIDROENERGIA CHILE LTDA
+Domicilio 	: 	AVENIDA VITACURA Nº 2939, PISO 8, LAS CONDES
+
+Potencia total instalada: 27
+En construción: NO</description>
+			<Camera>
+				<longitude>-72.43030154902729</longitude>
+				<latitude>-41.97772862897842</latitude>
+				<altitude>42312.50576520334</altitude>
+				<heading>-9.981266075183651</heading>
+				<tilt>0.5031059944802895</tilt>
+				<roll>-14.8504206930116</roll>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</Camera>
+			<styleUrl>#m_ylw-pushpin00</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-72.4167238283831,-41.94635899366143,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Proyecto 	Mini Central Hidroeléctrica de Pasada Río Negro</name>
+			<description>Proyecto 	Mini Central Hidroeléctrica de Pasada Río Negro
+Tipo de Proyecto 	Centrales generadoras de energía mayores a 3 MW
+Monto de Inversión 	20,0000 Millones de Dólares
+Estado 	Aprobado
+
+Nombre 	: 	Enrico Gatti Sani</description>
+			<Camera>
+				<longitude>-72.38749155565796</longitude>
+				<latitude>-41.94302690525445</latitude>
+				<altitude>16845.26382062865</altitude>
+				<heading>2.14548205210483</heading>
+				<tilt>2.991717287337617</tilt>
+				<roll>-2.46999532470172</roll>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</Camera>
+			<styleUrl>#m_ylw-pushpin00</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-72.42206051825376,-41.92609936368207,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Proyecto 	Mini Centrales Hidroeléctricas de Pasada Palmar - Correntoso</name>
+			<description>Proyecto 	Mini Centrales Hidroeléctricas de Pasada Palmar - Correntoso
+Tipo de Proyecto 	Centrales generadoras de energía mayores a 3 MW
+Monto de Inversión 	20,0000 Millones de Dólares
+Estado 	Aprobado
+Titular: Nombre 	: 	Hidropalmar S.A
+Potencia total instalada: 13.5 MW
+En construcción : NO</description>
+			<Camera>
+				<longitude>-72.31692286292196</longitude>
+				<latitude>-40.7841535894139</latitude>
+				<altitude>37807.26124167358</altitude>
+				<heading>0.3259913670161843</heading>
+				<tilt>1.756793945878342</tilt>
+				<roll>-4.248847215100804</roll>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</Camera>
+			<styleUrl>#m_ylw-pushpin00</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-72.31348321462778,-40.7991111450569,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PROYECTO Aumento de Potencia Central Hidroeléctrica El Paso 60 MW</name>
+			<description>Proyecto 	Aumento de Potencia Central Hidroeléctrica El Paso 60 MW
+Tipo de Proyecto 	Centrales generadoras de energía mayores a 3 MW
+Monto de Inversión 	135,0000 Millones de Dólares
+Estado 	Aprobado
+
+Titular: Nombre 	: 	Hidroeléctrica El Paso Ltda.
+En construcción : SI
+Potencia total instalada: 60 MW</description>
+			<Camera>
+				<longitude>-70.38064443082662</longitude>
+				<latitude>-34.94532510698195</latitude>
+				<altitude>5085.823336537463</altitude>
+				<heading>2.908337936377521</heading>
+				<tilt>16.29394389824152</tilt>
+				<roll>-0.5378612460595125</roll>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</Camera>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-70.39017969534217,-34.94038252423542,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Proyecto 	Central Hidroeléctrica Llancalil</name>
+			<description>Proyecto 	Central Hidroeléctrica Llancalil (Reingreso)
+Tipo de Proyecto 	Centrales generadoras de energía mayores a 3 MW
+Monto de Inversión 	23,0000 Millones de Dólares
+Estado 	En Calificación
+
+Titular: Nombre 	: 	Inversiones Huife Ltda.
+Potencia total instalada: 6.9 MW
+En construcción: NO</description>
+			<LookAt>
+				<longitude>-71.6158923045147</longitude>
+				<latitude>-39.21998404948594</latitude>
+				<altitude>0</altitude>
+				<heading>-0.03709682495728251</heading>
+				<tilt>33.75302205705398</tilt>
+				<range>6378.237019618004</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin00</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-71.61921175709782,-39.2241831093033,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PROYECTO Centrales Hidroeléctricas Quitralman 1 y 2</name>
+			<description>Proyecto 	Minicentrales Hidroeléctricas Quitralman 1 y 2
+Tipo de Proyecto 	Acueductos
+Monto de Inversión 	5,7550 Millones de Dólares
+Estado 	Aprobado
+
+Titular: Nombre 	: 	JC HIDRO SpA
+
+En construcción: NO
+
+Potencia total instalada: 0.75</description>
+			<LookAt>
+				<longitude>-72.13694408703859</longitude>
+				<latitude>-37.62826276660751</latitude>
+				<altitude>0</altitude>
+				<heading>0.1542636715429626</heading>
+				<tilt>0.04688800595497841</tilt>
+				<range>35298.68576840797</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-72.2199052182373,-37.65352235379184,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Proyecto 	Central Hidroeléctrica Pulelfu</name>
+			<description>Proyecto 	Central Hidroeléctrica Pulelfu
+Tipo de Proyecto 	Centrales generadoras de energía mayores a 3 MW
+Monto de Inversión 	12,5000 Millones de Dólares
+Estado 	Aprobado
+
+Titular: Nombre 	: 	Empresa Eléctrica La Leonera S.A.
+Potencia total instalada: 9 MW
+
+En construcción NO
+¿En pruebas?</description>
+			<LookAt>
+				<longitude>-72.34960586141278</longitude>
+				<latitude>-40.77171843111717</latitude>
+				<altitude>0</altitude>
+				<heading>0.2690676256059142</heading>
+				<tilt>0</tilt>
+				<range>22964.63651750727</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin00</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-72.37760734442823,-40.7850969135596,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Proyecto 	Modificación Central de Pasada Carilafquén-Malalcahuello</name>
+			<description>Proyecto 	Modificación Central de Pasada Carilafquén-Malalcahuello
+Tipo de Proyecto 	Centrales generadoras de energía mayores a 3 MW
+Monto de Inversión 	28,0000 Millones de Dólares
+Estado 	Aprobado
+
+Titular: Nombre 	: 	Empresa Eléctrica CAREN S.A Filial: Latin America Power	Empresa Eléctrica Carén S.A.
+
+Potencia total instalada: 19.8 MW
+
+En construcción: SI</description>
+			<LookAt>
+				<longitude>-71.45623828491972</longitude>
+				<latitude>-38.916692248506</latitude>
+				<altitude>0</altitude>
+				<heading>-0.3068277080568776</heading>
+				<tilt>0</tilt>
+				<range>23750.50261482212</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin00</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-71.50343317227312,-38.88561422717514,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PROYECTO Central Hidroeléctrica de Pasada Quilaco</name>
+			<description>Proyecto 	Central Hidroeléctrica de Pasada Quilaco
+Tipo de Proyecto 	Centrales generadoras de energía mayores a 3 MW
+Monto de Inversión 	29,9000 Millones de Dólares
+Estado 	Aprobado
+Potencia: 9.87 MW
+
+Titular: Nombre 	: 	MAINCO S.A.
+En construcción: NO</description>
+			<LookAt>
+				<longitude>-72.00126784913111</longitude>
+				<latitude>-37.6812471343595</latitude>
+				<altitude>0</altitude>
+				<heading>0.02822941453681088</heading>
+				<tilt>3.725988655473293</tilt>
+				<range>9565.127334723651</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-72.03802663566549,-37.68615991257553,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PROYECTO Central Hidroeléctrica de Pasada Alto Renaico</name>
+			<description>Proyecto 	Central Hidroeléctrica de Pasada Alto Renaico
+Tipo de Proyecto 	Acueductos
+Monto de Inversión 	5,0880 Millones de Dólares
+Estado 	Aprobado
+Titular: Nombre 	: 	MAINCO S.A.
+Domicilio 	: 	Avenida Andrés Bello 1931, Providencia
+
+Potencia total: 1.7 MW
+En construcción: NO</description>
+			<LookAt>
+				<longitude>-72.41223515055955</longitude>
+				<latitude>-37.80590498087251</latitude>
+				<altitude>0</altitude>
+				<heading>0.2809484702564043</heading>
+				<tilt>4.577053335010217</tilt>
+				<range>22187.77168874076</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-72.41795367688307,-37.79912402394087,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PROYECTO Central Hidroeléctrica Alto Cautín</name>
+			<description>Proyecto 	Central Hidroeléctrica Alto Cautín
+Tipo de Proyecto 	Centrales generadoras de energía mayores a 3 MW
+Monto de Inversión 	8,8000 Millones de Dólares
+Estado 	Aprobado
+Titular: Nombre 	: 	Hidroeléctrica Alto Cautín S.A Filial: Mainco
+
+Potencia total instalada: 9.87 MW
+En construcción: NO</description>
+			<LookAt>
+				<longitude>-71.74017049663726</longitude>
+				<latitude>-38.46917465301175</latitude>
+				<altitude>0</altitude>
+				<heading>-0.1075613105633308</heading>
+				<tilt>15.81424537598579</tilt>
+				<range>86180.78600370116</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-71.83887526571543,-38.51381090580477,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Proyecto 	Central de Pasada Mediterráneo</name>
+			<description>Proyecto 	Central de Pasada Mediterráneo
+Tipo de Proyecto 	Centrales generadoras de energía mayores a 3 MW
+Monto de Inversión 	400,0000 Millones de Dólares
+Estado 	Aprobado
+
+Titular: Nombre 	: 	Mediterráneo S.A.
+Potencia total instalada: 210 MW
+
+En construcción: NO</description>
+			<LookAt>
+				<longitude>-71.97947439259643</longitude>
+				<latitude>-41.62799239430669</latitude>
+				<altitude>0</altitude>
+				<heading>0.151441526482744</heading>
+				<tilt>14.10371037270157</tilt>
+				<range>33723.90674363473</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin00</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-71.9367521717333,-41.61460730328233,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PROYECTO Central Hidroeléctrica Nido de Águilas</name>
+			<description>Proyecto 	Central Hidroeléctrica Nido de Águilas
+Tipo de Proyecto 	Centrales generadoras de energía mayores a 3 MW
+Monto de Inversión 	280,0000 Millones de Dólares
+Estado 	En Calificación
+
+Titular: Nombre 	: 	Hidroeléctrica Nido de Águilas S.A. Filial: Pacific Hydro S.A.
+
+Potencia total instalada: 65 MW
+
+En construcción: NO</description>
+			<Camera>
+				<longitude>-70.43926751388315</longitude>
+				<latitude>-34.27947084985486</latitude>
+				<altitude>22054.06293103739</altitude>
+				<heading>-0.3739155236980618</heading>
+				<tilt>5.791591558278404</tilt>
+				<roll>0.7528697437885216</roll>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</Camera>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-70.45846838985105,-34.27060221768836,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Proyecto 	Centro de Cultivo. Oeste de Punta Mela. Pert 211 081 065</name>
+			<description>Proyecto 	Centro de Cultivo. Oeste de Punta Mela. Pert 211 081 065
+Tipo de Proyecto 	Producción anual de macroalgas
+Monto de Inversión 	2,6000 Millones de Dólares
+Estado 	En Calificación
+
+Titular: Nombre 	: 	Inversiones Pelícano S.A.
+Representante legal: Nombre 	: 	Mark Robert Stengel Uslar</description>
+			<LookAt>
+				<longitude>-72.80218250705218</longitude>
+				<latitude>-36.36688161736161</latitude>
+				<altitude>0</altitude>
+				<heading>9.021781169519826</heading>
+				<tilt>9.887160434104837</tilt>
+				<range>26816.55605594431</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin00</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-72.87605979171234,-36.3448946842717,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Central hidroeléctrica Los Cóndores</name>
+			<description>Inversión: 180 Millones de dólares
+Titular: Endesa
+Filial: Enel
+
+En construcción: SI</description>
+			<LookAt>
+				<longitude>-70.43784478145308</longitude>
+				<latitude>-35.99668694534319</latitude>
+				<altitude>0</altitude>
+				<heading>-3.485992592331939</heading>
+				<tilt>0</tilt>
+				<range>67896.98960114723</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-70.562497504598,-35.9954767806441,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PROYECTO: Central de pasada Blanco</name>
+			<description>Empresa: Aakatei (Pedro Matthei) 
+
+Potencia: 2,5 MW</description>
+			<LookAt>
+				<longitude>-71.49483246692704</longitude>
+				<latitude>-37.74061603742436</latitude>
+				<altitude>0</altitude>
+				<heading>-0.3129108518957828</heading>
+				<tilt>0.415862673613758</tilt>
+				<range>18832.05180477724</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-71.51579075746663,-37.74635195221368,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Central El Retiro</name>
+			<description>(Ubicación aproximada) 
+
+En construcción...</description>
+			<LookAt>
+				<longitude>-71.53654922423289</longitude>
+				<latitude>-38.02486857662161</latitude>
+				<altitude>0</altitude>
+				<heading>-0.2883806189113561</heading>
+				<tilt>9.898021750872291</tilt>
+				<range>39656.90547899688</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-71.4696135531168,-38.01324514187544,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Central Canutillar</name>
+			<description>Empresa: Colbun (Grupo Matte) 
+
+Ubicación (Comuna, Región):
+Cochamó, Región de Los Lagos
+
+Potencia:
+172 MW
+
+Número de Generadores: 2
+
+Tipo de Turbina:
+Dos turbinas Francis de eje vertical
+
+Año de Entrada en Funcionamiento:
+1990
+
+Equivalencia Consumo:    Alrededor de 270.000 personas     Un 56% del consumo de la Región de Los Lagos
+
+Colaboradores:
+20</description>
+			<LookAt>
+				<longitude>-72.32422972757</longitude>
+				<latitude>-41.50389450134539</latitude>
+				<altitude>0</altitude>
+				<heading>0.303670240045829</heading>
+				<tilt>6.715133117682436</tilt>
+				<range>56026.18324853998</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-72.35188477886327,-41.53595808948006,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Central Cipreses (Endesa-Enel)</name>
+			<description>Propiedad: Endesa (Enel)
+
+Ubicación: 105 km. al oriente de Talca, Región del Maule.
+
+Potencia declarada  106,00 MW
+
+Generación anual  2007: 598,58 GWh</description>
+			<LookAt>
+				<longitude>-70.80991292590396</longitude>
+				<latitude>-35.78745163402496</latitude>
+				<altitude>0</altitude>
+				<heading>-1.638210208444679</heading>
+				<tilt>55.69906486402219</tilt>
+				<range>482.8244031385291</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-70.80770956293402,-35.78660845685658,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Central Antuco</name>
+			<description>Central Antuco
+Empresa: Endesa (Enel)
+Tipo: 	Hidroeléctrica de pasada
+Potencia Instalada: 	320 MW
+Ubicación: 	91 km. al oriente de Los Ángeles, Región del Bío Bío</description>
+			<LookAt>
+				<longitude>-71.63442123505932</longitude>
+				<latitude>-37.30566237977057</latitude>
+				<altitude>0</altitude>
+				<heading>-3.473877903811192</heading>
+				<tilt>29.40341346855623</tilt>
+				<range>4106.437708903911</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin2</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-71.62725915062208,-37.31019376743947,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Central Rucúe</name>
+			<description>Ubicación (Comuna, Región):
+Quilleco, Región del Bío Bío
+
+Capacidad: 178,4 MW
+
+Número de Generadores: 2
+
+Tipo de Turbina: Francis
+
+Año de Entrada en Funcionamiento: 2007
+
+Trabajadores: 42 (Rucúe - Quilleco)</description>
+			<LookAt>
+				<longitude>-71.85669104964528</longitude>
+				<latitude>-37.35591038397377</latitude>
+				<altitude>0</altitude>
+				<heading>-2.863504088654078</heading>
+				<tilt>30.03842376999272</tilt>
+				<range>8809.598319479566</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin2</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-71.86542460665797,-37.3606924961985,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Central Quilleco</name>
+			<description>Ubicación (Comuna, Región): Quilleco, Región del Bío Bío
+
+Empresa: Colbun (Grupo Matte) 
+
+Potencia: 71 MW
+
+Número de Generadores: 2
+
+Tipo de Turbina: Francis
+
+Año de Entrada en Funcionamiento: 2007
+
+Colaboradores: 42 (Rucúe - Quilleco)</description>
+			<LookAt>
+				<longitude>-71.98535525104209</longitude>
+				<latitude>-37.29599553273432</latitude>
+				<altitude>0</altitude>
+				<heading>-2.785351982174717</heading>
+				<tilt>30.02172420536784</tilt>
+				<range>6208.420807160763</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin2</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-71.96822023770045,-37.30570420418787,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Central Pehuenche (Endesa Enel)</name>
+			<description>Potencia instalada: 570 MW
+
+Generación anual (EGB) media 2008 - 2015: 2.283 GWh
+
+Volumen total del embalse: 133 mill. m3
+
+Muro de presa: De tierra con núcleo central
+
+Altura por long. de coronamiento:90 x 310 m
+
+Capacidad de vertimiento: 3.600 m3/s
+
+Número de compuertas: 3
+
+Potencia por unidad (MW)
+unidad 1:
+unidad 2: 280 290
+
+Tipo turbina: Francis de eje vertical</description>
+			<LookAt>
+				<longitude>-71.08947229351944</longitude>
+				<latitude>-35.75627945687921</latitude>
+				<altitude>0</altitude>
+				<heading>-1.913296041402095</heading>
+				<tilt>36.1375897714341</tilt>
+				<range>3940.367077738893</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin2</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-71.08896945115345,-35.75790023234588,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Central El Abanico (Endesa-Enel)</name>
+			<description>Propiedad: Endesa Enel
+
+Hidráulica de pasada. Dispone de regulación interanual si se utilizan recursos del lago Laja.
+
+otencia por unidad (MW)
+
+Unidad 1: 21,5
+
+Unidad 5: 25
+
+Tipo turbina: Francis de Eje Vertical
+
+Año puesta en servicio:	
+
+Unidad 1: 1948
+Unidad 5: 1959</description>
+			<LookAt>
+				<longitude>-71.49031882943376</longitude>
+				<latitude>-37.36184362701665</latitude>
+				<altitude>0</altitude>
+				<heading>-8.355379895678921</heading>
+				<tilt>56.74402257221809</tilt>
+				<range>1674.433980721144</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin2</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-71.48980341752122,-37.36429961811768,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Central Maitenes (AES Gener)</name>
+			<description>Unidades Generadoras :2
+Potencia Total :31 MW
+Puesta en servicio: 1923-1989</description>
+			<LookAt>
+				<longitude>-70.26312726701724</longitude>
+				<latitude>-33.53254320560155</latitude>
+				<altitude>0</altitude>
+				<heading>0.02019191972856244</heading>
+				<tilt>20.6508292469944</tilt>
+				<range>1219.048433607046</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin2</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-70.2615965758804,-33.53071636482,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Central Hidroeléctrica en el Rio Olivares SIN NOMBRE</name>
+			<description>Buscar nombre</description>
+			<LookAt>
+				<longitude>-70.1333318263822</longitude>
+				<latitude>-33.40422339246137</latitude>
+				<altitude>0</altitude>
+				<heading>-22.14227579802753</heading>
+				<tilt>22.2574926348187</tilt>
+				<range>293.168802506118</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin2</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-70.13318909155537,-33.40416189930865,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Central El Alfalfal (AES Gener)</name>
+			<description>Propietario: AES Gener
+
+Unidades Generadoras : 2
+Potencia Total :	178 MW
+Año de puesta en servicios :1991</description>
+			<LookAt>
+				<longitude>-70.19304319515655</longitude>
+				<latitude>-33.5014340837642</latitude>
+				<altitude>0</altitude>
+				<heading>-6.025700649205644</heading>
+				<tilt>46.54153717412618</tilt>
+				<range>661.7286226850965</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin2</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-70.19337552644122,-33.50116128732156,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Central Laja 1 (GDF Suez)</name>
+			<description>Empresa: EOLICA MONTE REDONDO S.A., (GDF Suez - Engie) 
+
+Potencia: 34.4 MW
+
+Clasificación Hidráulica de pasada.</description>
+			<LookAt>
+				<longitude>-72.52988574277795</longitude>
+				<latitude>-37.24339594695374</latitude>
+				<altitude>0</altitude>
+				<heading>-6.701714214895416</heading>
+				<tilt>27.7420748483878</tilt>
+				<range>726.2811699784057</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin2</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-72.53058025088679,-37.24428262731036,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Central Chiburgo Colbún</name>
+			<description>Propietario: Colbun (Grupo Matte)
+
+Ubicación (Comuna, Región):
+Colbún, Región del Maule
+
+Potencia: 19 MW
+
+Número de Generadores:2
+
+Tipo de Turbina: Francis
+
+Año de Entrada en Funcionamiento: 2007
+
+Equivalencia Consumo:    Más de 20 mil personas     Un 3% del consumo de la Región del Maule
+
+Colaboradores: 82 (Cuenca del Maule)
+
+Fuente: colbun.cl</description>
+			<LookAt>
+				<longitude>-71.35423308010704</longitude>
+				<latitude>-35.66174629450777</latitude>
+				<altitude>0</altitude>
+				<heading>-7.588789777454095</heading>
+				<tilt>55.91604662692405</tilt>
+				<range>493.7154323959597</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_centralicono1</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-71.35508821713263,-35.66144392339718,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Central Isla (Endesa-Enel)</name>
+			<description>Potencia declarada: 68,00 MW
+
+Generación anual (EGB) 2007:  529,65 GWh
+
+Volumen total del embalse: 170 mill. m3
+
+Muro de presa: Arcilla, arena y roca
+
+Altura por long. de coronamiento: 28 x 350 m
+
+Potencia por unidad (MW): 25,6
+
+Tipo turbina: Pelton de eje horizontal
+
+Fabricante turbina: Voith
+
+Año puesta en servicio: 1955</description>
+			<LookAt>
+				<longitude>-70.83439087648699</longitude>
+				<latitude>-35.81051944313319</latitude>
+				<altitude>0</altitude>
+				<heading>-1.624459088966005</heading>
+				<tilt>56.43215364580892</tilt>
+				<range>2376.878841562614</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin2</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-70.83647753115848,-35.80976406753398,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Central hidroeléctria Curilinque</name>
+			<description>Potencia instalada: 89 MW
+
+Generación anual (EGB) media 2008 - 2015: 534 GWh
+
+Potencia por unidad (MW) 89
+
+Tipo turbina: Francis de eje vertical
+
+Fabricante turbina: Hydro Vevey
+
+Año puesta en servicio: 1993</description>
+			<LookAt>
+				<longitude>-70.99338822571927</longitude>
+				<latitude>-35.79595431457626</latitude>
+				<altitude>0</altitude>
+				<heading>-1.526593674546002</heading>
+				<tilt>34.96040621782425</tilt>
+				<range>863.5707570401086</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin2</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-70.99328722882,-35.79704300563015,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Central Lircay (Hidromaule)</name>
+			<description>Propietario: Hidromaule S.A.
+
+Capacidad: 19 MW
+
+
+&quot;A flow rate of 25 cubic meters per second, a penstock, a powerhouse with two Francis turbines with horizontal Andritz axis / Vatech MW of 9.7 each and a substation of 6.6/66 kV.
+
+It also has a transmission line of 27 km. long to evacuate the energy generated by CIS through the Maule substation&quot;
+
+Fuente: hidromaule.cl</description>
+			<LookAt>
+				<longitude>-71.26185725536605</longitude>
+				<latitude>-35.53629919156622</latitude>
+				<altitude>0</altitude>
+				<heading>-3.342634958995134</heading>
+				<tilt>38.53655922446754</tilt>
+				<range>640.5710979245393</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin2</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-71.26137908142604,-35.53731345464642,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Central Providencia (Hidromaule)</name>
+			<description>Propietario: Hidromaule
+
+Capacidad: 14.2 MW
+
+&quot;La central Providencia tiene una capacidad instalada de 14 mega watts (MW) y aporta una generación anual de 61 GWh al Sistema Interconectado Central.
+
+El diseño de la Central Providencia considera una bocatoma con un caudal de diseño de 28 metros cuadrados por segundo, una tubería de presión, una casa de máquinas con dos turbinas Francis de eje horizontal Andritz/Vatech de 7 MW cada una, dos generadores Indar de 7 MW cada uno y una subestación elevadora de 6.6/66 KV con una línea de transmisión de 9.1 kilómetros, la que se conecta con la subestación Lircay existente&quot;
+
+Fuente: hidromaule.cl</description>
+			<LookAt>
+				<longitude>-71.27333318495197</longitude>
+				<latitude>-35.46930275640948</latitude>
+				<altitude>0</altitude>
+				<heading>-5.823815694959444</heading>
+				<tilt>30.00218827231321</tilt>
+				<range>621.8496888965887</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin2</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-71.27301504678451,-35.46969420981165,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>
